@@ -1,6 +1,5 @@
 streamlit
 numpy
-os
 pickle
 sklearn
 tensorflow
