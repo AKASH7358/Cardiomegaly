@@ -1,0 +1,8 @@
+streamlit
+numpy
+os
+pickle
+sklearn
+tensorflow
+pathlib
+streamlit-authenticator
