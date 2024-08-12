@@ -1,6 +1,6 @@
 streamlit
 numpy
-pickle
+pickle==4.0
 sklearn
 tensorflow
 pathlib
